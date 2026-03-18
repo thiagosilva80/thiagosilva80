@@ -13,14 +13,12 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e estou construind
 
 📂 Projetos  
 No meu GitHub você encontrará projetos desenvolvidos durante meus estudos, incluindo:  
-- Exercícios de lógica em Python – práticas diárias para consolidar aprendizado  
-- Pequenos projetos de web – HTML, CSS e JavaScript  
+- Exercícios de lógica em Python – práticas diárias para consolidar aprendizado    
 - Projetos com banco de dados – criação, consultas e manipulação de dados usando SQL  
 - Desafios e práticas de programação – para evoluir na resolução de problemas  
 
 🎯 Objetivos  
-- Conseguir minha primeira oportunidade profissional em desenvolvimento  
-- Evoluir em Python, JavaScript, banco de dados e tecnologias web  
+- Conseguir minha primeira oportunidade profissional em desenvolvimento   
 - Criar projetos completos e aplicáveis no mundo real  
 
  📈 Status de aprendizado  
