@@ -1,46 +1,40 @@
-Olá, eu sou Thiago Matheus
+cat << 'EOF' > README.md
 
-Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e estou construindo minha base em programação com foco em Python e desenvolvimento web
+Olá, eu sou Thiago Matheus 👋  
 
-💻 Tecnologias e Ferramentas
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/> </p>
-📂 Projetos
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e estou construindo minha base em programação com foco em Python e desenvolvimento web.
 
-No meu GitHub você encontrará projetos desenvolvidos durante meus estudos, incluindo:
+💻 Tecnologias e Ferramentas  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
 
-Exercícios de lógica em Python – práticas diárias para consolidar aprendizado
+📂 Projetos  
+No meu GitHub você encontrará projetos desenvolvidos durante meus estudos, incluindo:  
+- Exercícios de lógica em Python – práticas diárias para consolidar aprendizado  
+- Pequenos projetos de web – HTML, CSS e JavaScript  
+- Projetos com banco de dados – criação, consultas e manipulação de dados usando SQL  
+- Desafios e práticas de programação – para evoluir na resolução de problemas  
 
-Pequenos projetos de web – HTML, CSS e JavaScript
+🎯 Objetivos  
+- Conseguir minha primeira oportunidade profissional em desenvolvimento  
+- Evoluir em Python, JavaScript, banco de dados e tecnologias web  
+- Criar projetos completos e aplicáveis no mundo real  
 
-Desafios e práticas de programação – para evoluir na resolução de problemas
+ 📈 Status de aprendizado  
+- 🐍 Python – aprendendo fundamentos e lógica  
+- 🌐 HTML, CSS, JavaScript – criando páginas simples e interativas  
+- 🗄️ Banco de Dados (SQL) – aprendendo modelagem, consultas e integração com sistemas  
+- 🔧 Git e GitHub – versionamento de código e controle de projetos  
+- 🧠 Lógica de programação – foco na resolução de problemas  
 
-🎯 Objetivos
-
-Conseguir minha primeira oportunidade profissional em desenvolvimento
-
-Evoluir em Python, JavaScript e tecnologias web
-
-Criar projetos completos e aplicáveis no mundo real
-
-📈 Status de aprendizado
-
-🐍 Python – aprendendo fundamentos e lógica
-
-🌐 HTML, CSS, JavaScript – criando páginas simples e interativas
-
-🔧 Git e GitHub – versionamento de código e controle de projetos
-
-🧠 Lógica de programação – foco na resolução de problemas
-
-🤝 Contato
-
-🔗 GitHub: github.com/thiagosilva80!
-
-🔗 LinkedIn: linkedin.com/in/thiago-matheus
+🤝 Contato  
+- 🔗 GitHub: https://github.com/thiagosilva80  
+- 🔗 LinkedIn: https://linkedin.com/in/thiago-matheus  
 
 Estou aberto a networking, dicas de aprendizado e oportunidades na área de desenvolvimento.
-
-<p align="left">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thiagosilva80&show_icons=true&theme=radical"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosilva80&layout=compact&theme=radical"/>
-</p>
+EOF
