@@ -1,5 +1,3 @@
-cat << 'EOF' > README.md
-
 Olá, eu sou Thiago Matheus 👋  
 
 Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e estou construindo minha base em programação com foco em Python e desenvolvimento web.
@@ -34,7 +32,7 @@ No meu GitHub você encontrará projetos desenvolvidos durante meus estudos, inc
 
 🤝 Contato  
 - 🔗 GitHub: https://github.com/thiagosilva80  
-- 🔗 LinkedIn: https://linkedin.com/in/thiago-matheus  
+- 🔗 LinkedIn: https://linkedin.com/in/thiago-matheus-a689ba3b1  
 
 Estou aberto a networking, dicas de aprendizado e oportunidades na área de desenvolvimento.
 EOF
