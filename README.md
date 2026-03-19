@@ -30,7 +30,8 @@ No meu GitHub você encontrará projetos desenvolvidos durante meus estudos, inc
 
 🤝 Contato  
 - 🔗 GitHub: https://github.com/thiagosilva80  
-- 🔗 LinkedIn: https://linkedin.com/in/thiago-matheus-a689ba3b1  
+- 🔗 LinkedIn: https://linkedin.com/in/thiago-matheus-a689ba3b1
+- 🔗 Gmail: thiagomatheus4033@gmail.com
 
 Estou aberto a networking, dicas de aprendizado e oportunidades na área de desenvolvimento.
 EOF
