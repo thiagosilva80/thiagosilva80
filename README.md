@@ -29,7 +29,6 @@ No meu GitHub você encontrará projetos desenvolvidos durante meus estudos, inc
 - 🧠 Lógica de programação – foco na resolução de problemas  
 
 🤝 Contato  
-- 🔗 GitHub: https://github.com/thiagosilva80  
 - 🔗 LinkedIn: https://linkedin.com/in/thiago-matheus-a689ba3b1
 - 🔗 Gmail: thiagomatheus4033@gmail.com
 
