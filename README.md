@@ -1,6 +1,10 @@
 Olá, eu sou Thiago Matheus 👋  
 
-Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e estou construindo minha base em programação com foco em Python e desenvolvimento web.
+Desenvolvedor Back-end em formação
+
+🚀 Desenvolvendo aplicações com Python, SQL e tecnologias web.
+
+Tenho interesse em desenvolvimento de software, bancos de dados e boas práticas de programação. Meu objetivo é criar projetos que resolvam problemas reais e evoluir constantemente como desenvolvedor.
 
 💻 Tecnologias e Ferramentas  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
