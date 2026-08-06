@@ -1,6 +1,6 @@
 Olá, eu sou Thiago Matheus 👋  
 
-Desenvolvedor Back-end em formação
+Desenvolvedor Back-end em formaçã
 
 🚀 Desenvolvendo aplicações com Python, SQL e tecnologias web.
 
